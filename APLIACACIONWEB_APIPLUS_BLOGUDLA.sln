@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APLIACACIONWEB_APIPLUS_BLOGUDLA", "APLIACACIONWEB_APIPLUS_BLOGUDLA\APLIACACIONWEB_APIPLUS_BLOGUDLA.csproj", "{1FE20B3D-4D89-4400-A499-38562B87FFF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FE20B3D-4D89-4400-A499-38562B87FFF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE20B3D-4D89-4400-A499-38562B87FFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE20B3D-4D89-4400-A499-38562B87FFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE20B3D-4D89-4400-A499-38562B87FFF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFBC047F-C690-4FC8-AECB-696308A26195}
+	EndGlobalSection
+EndGlobal
